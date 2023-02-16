@@ -7,3 +7,11 @@ In 2016 I got my masters degree at the University of Koblenz in Computational Vi
 I write code to connect technology with creative disciplines, build generative art and interactive visual systems. I'm part of a local light artist collective called Pendeloque, which is performing mainly in the area of Mannheim and Heidelberg.
 
 www.guidoschmidt.cc
+
+##### Get in touch
+
+I'm open for projects, collaborations and teaching! Feel free to drop me a line at hey@guidoschmidt.cc.
+
+##### Social Media
+- <a rel="me" href="https://genart.social/@guidoschmidt">Mastodon</a>
+- [Instagram](https://www.instagram.com/guidoschmidt.cc/)
