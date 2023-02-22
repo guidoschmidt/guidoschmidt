@@ -1,4 +1,4 @@
-### Hey 👋
+## Hey 👋
 
 I'm a creative programmer, media artist and technologist from Germany.
 
@@ -6,12 +6,13 @@ In 2016 I got my masters degree at the University of Koblenz in Computational Vi
 
 My interest lies in in connecting technology with creative disciplines. I love to build generative art and interactive visual systems. I am a member of a hobbyists light artist collective [Pendeloque](https://www.pendeloque.de/), which mainly performs in the area of Mannheim and Heidelberg.
 
+
 www.guidoschmidt.cc
 
-##### Get in touch
+### Get in touch
 
 I'm open for projects, collaborations and teaching! Feel free to drop me a line at hey@guidoschmidt.cc.
 
-##### Social Media
+### Social Media
 - <a rel="me" href="https://genart.social/@guidoschmidt">Mastodon</a>
 - [Instagram](https://www.instagram.com/guidoschmidt.cc/)
