@@ -1,6 +1,6 @@
 ## Hey 👋
 
-I'm a creative programmer, media artist and technologist from Germany.
+I'm a programmer, generative artist and creative technologist from Germany.
 
 In 2016 I got my masters degree at the University of Koblenz in Computational Visualistics, a computer science program with a special focus on computer graphics and image processing mixed with courses from interdisciplinary fields such as art history, drawing and media art.
 
