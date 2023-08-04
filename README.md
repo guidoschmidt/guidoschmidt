@@ -16,3 +16,5 @@ I'm open for projects, collaborations and teaching! Feel free to drop me a line 
 ### Social Media
 - <a rel="me" href="https://genart.social/@guidoschmidt">Mastodon</a>
 - [Instagram](https://www.instagram.com/guidoschmidt.cc/)
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guidoschmidt&hide_progress=true&langs_count=12&theme=gruvbox_light)
