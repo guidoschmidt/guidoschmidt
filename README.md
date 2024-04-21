@@ -4,6 +4,8 @@ I'm a programmer & creative technologist from Germany.
 
 In 2016 I got my masters degree at the University of Koblenz in Computational Visualistics, a computer science program with a special focus on computer graphics and image processing mixed with courses from interdisciplinary fields such as art history, drawing and media art.
 
+Currently pushing bits and pixels @ [FIELD](https://field.io/)
+
 My interest lies in connecting technology with creative disciplines. I love to build generative visuals and interactive visual systems. I am a member of a hobbyists light artist collective [Pendeloque](https://www.pendeloque.de/), which mainly performs in the area of Mannheim and Heidelberg.
 
 
