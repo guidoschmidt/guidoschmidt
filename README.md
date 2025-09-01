@@ -6,14 +6,7 @@ In 2016 I got my masters degree at the University of Koblenz in Computational Vi
 
 Currently pushing bits and pixels @ [FIELD](https://field.io/)
 
-My interest lies in connecting technology with creative disciplines. I love to build generative visuals and interactive visual systems. I am a member of a hobbyists light artist collective [Pendeloque](https://www.pendeloque.de/), which mainly performs in the area of Mannheim and Heidelberg.
-
-
 www.guidoschmidt.cc
-
-### Get in touch
-
-I'm open for projects, collaborations and teaching! Feel free to drop me a line at hey@guidoschmidt.cc.
 
 ### Social Media
 - <a rel="me" href="https://genart.social/@guidoschmidt">Mastodon</a>
